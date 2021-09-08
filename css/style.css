@@ -1,0 +1,9 @@
+._container {
+	max-width: 1170px;
+	margin: 0px auto;
+}
+.text {
+	padding-top: 50px;
+	font-size: 36px;
+	text-align: center;
+}
